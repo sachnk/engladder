@@ -1,3 +1,4 @@
-remote_theme: pmarsceill/just-the-docs
-title: Engineering Ladders
-description: A framework for engineering organization
+theme: jekyll-theme-minimal
+title: Engineering Ladder
+logo: /images/logo.svg
+description: A framework for an engineering organization
