@@ -2,12 +2,12 @@
 
 Tech leads are the owners of a system and require a unique balance between hands-on engineering, architecture knowledge and production support.
 
-| Level | Seniority | Public Title | Position |
-| :--- | :--- | :-- | :--- |
-| 3 | Senior | Senior Engineer | [TL4](#tl3) |
-| 4 | Senior | Staff Engineer | [TL5](#tl4) |
-| 5 | Senior | Senior Staff Engineer | [TL6](#tl5) |
-| 6 | Senior | Principal Engineer | [TL7](#tl6) |
+| Org Level | Eng Level | Seniority | Public Title | Position |
+| :-- | :--- | :--- | :-- | :--- |
+| L5 | 3 | Senior | Senior Engineer | [TL3](#tl3) |
+| L6 | 4 | Senior | Staff Engineer | [TL4](#tl4) |
+| L7 | 5 | Senior | Senior Staff Engineer | [TL5](#tl5) |
+| L8 | 6 | Senior | Principal Engineer | [TL6](#tl6) |
 
 
 ## TL3

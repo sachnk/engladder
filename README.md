@@ -8,7 +8,7 @@ The framework relies heavily in radar charts to show visually the different pers
 
 # Career Ladders
 
-The framework has 4 different ladders:
+The framework has 3 different ladders:
 
 * [**Individual Contributer (IC)**](ic.md): role for engineers that contribute individually
 * [**Tech Lead (TL)**](tl.md): role is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support
@@ -16,14 +16,14 @@ The framework has 4 different ladders:
 
 If you are confused about the difference between a [Tech Lead](tl.md) and an [Engineering Manager](em.md), please refer to the [Tech Lead vs Engineering Manager](tl-vs-em.md) page for a detailed comparison.
 
-| Level | Seniority | Public Title | [IC](ic.md) | [TL](tl.md) | [EM](em.md) |
-| :--- | :--- | :-- | :---: | :---: | :---: |
-| 1 | Junior | Engineer | [IC1](ic.md#ic1) | | | |
-| 2 | Midlevel | Engineer | [IC2](ic.md#ic2) | | | |
-| 3 | Senior | Senior Engineer | [IC3](ic.md#ic3) | [TL3](tl.md#tl3) |
-| 4 | Advanced | Staff Engineer | [IC4](ic.md#ic4) | [TL4](tl.md#tl4) | [EM4](em.md#em4) |
-| 5 | Advanced | Senior Staff Engineer | [IC5](ic.md#ic5) | [TL5](tl.md#tl5) | [EM5](em.md#em5) |
-| 6 | Advanced | Principal Engineer | [IC6](ic.md#ic6) | [TL6](tl.md#tl6) | [EM6](em.md#em6) |
+| Org Level | Eng Level | Seniority | Public Title | [IC](ic.md) | [TL](tl.md) | [EM](em.md) |
+| :-- | :--- | :--- | :-- | :---: | :---: | :---: |
+| L3 | 1 | Junior | Engineer | [IC1](ic.md#ic1) | | | |
+| L4 | 2 | Midlevel | Engineer | [IC2](ic.md#ic2) | | | |
+| L5 | 3 | Senior | Senior Engineer | [IC3](ic.md#ic3) | [TL3](tl.md#tl3) |
+| L6 | 4 | Advanced | Staff Engineer | [IC4](ic.md#ic4) | [TL4](tl.md#tl4) | [EM4](em.md#em4) |
+| L7 | 5 | Advanced | Senior Staff Engineer | [IC5](ic.md#ic5) | [TL5](tl.md#tl5) | [EM5](em.md#em5) |
+| L8 | 6 | Advanced | Principal Engineer | [IC6](ic.md#ic6) | [TL6](tl.md#tl6) | [EM6](em.md#em6) |
 
 (click on position name for more details)
 
