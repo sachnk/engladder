@@ -12,19 +12,18 @@ The framework has 4 different ladders:
 
 * [**Individual Contributer (IC)**](ic.md): role for engineers that contribute individually
 * [**Tech Lead (TL)**](tl.md): role is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support
-* [**Technical Program Manager (TPM)**](tpm.md): role responsible for coordinating and driving to completion initiatives that expand multiple teams
 * [**Engineering Manager (EM)**](em.md): role also known as dev manager, is responsible for the consistent delivery, career growth and level of happiness of the team
 
 If you are confused about the difference between a [Tech Lead](tl.md) and an [Engineering Manager](em.md), please refer to the [Tech Lead vs Engineering Manager](tl-vs-em.md) page for a detailed comparison.
 
-| Level | Seniority | Public Title | [IC](ic.md) | [TL](tl.md) | [TPM](tpm.md) | [EM](em.md) |
-| :--- | :--- | :-- | :---: | :---: | :---: |  :---: |
+| Level | Seniority | Public Title | [IC](ic.md) | [TL](tl.md) | [EM](em.md) |
+| :--- | :--- | :-- | :---: | :---: | :---: |
 | 1 | Junior | Engineer | [IC1](ic.md#ic1) | | | |
-| 2 | Junior | Engineer | [IC2](ic.md#ic2) | | | |
-| 3 | Senior | Senior Engineer | [IC3](ic.md#ic3) | [TL3](tl.md#tl3) | [TPM3](tpm.md#tpm3) | |
-| 4 | Senior | Staff Engineer | [IC4](ic.md#ic4) | [TL4](tl.md#tl4) | [TPM4](tpm.md#tpm4) | [EM4](em.md#em4) |
-| 5 | Senior | Senior Staff Engineer | [IC5](ic.md#ic5) | [TL5](tl.md#tl5) | [TPM5](tpm.md#tpm5) | [EM5](em.md#em5) |
-| 6 | Senior | Principal Engineer | [IC6](ic.md#ic6) | [TL6](tl.md#tl6) | [TPM6](tpm.md#tpm6) | [EM6](em.md#em6) |
+| 2 | Midlevel | Engineer | [IC2](ic.md#ic2) | | | |
+| 3 | Senior | Senior Engineer | [IC3](ic.md#ic3) | [TL3](tl.md#tl3) |
+| 4 | Advanced | Staff Engineer | [IC4](ic.md#ic4) | [TL4](tl.md#tl4) | [EM4](em.md#em4) |
+| 5 | Advanced | Senior Staff Engineer | [IC5](ic.md#ic5) | [TL5](tl.md#tl5) | [EM5](em.md#em5) |
+| 6 | Advanced | Principal Engineer | [IC6](ic.md#ic6) | [TL6](tl.md#tl6) | [EM6](em.md#em6) |
 
 (click on position name for more details)
 
@@ -116,7 +115,6 @@ Specific examples of behavior require knowledge about the way that the team work
 
 * [**Developer**](ic.md)
 * [**Tech Lead**](tl.md)
-* [**Technical Program Manager**](tpm.md)
 * [**Engineering Manager**](em.md)
 * [**Tech Lead vs Engineering Manager**](tl-vs-em.md)
 * [**Managing Managers**](emm.md)

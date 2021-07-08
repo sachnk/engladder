@@ -4,9 +4,9 @@ EM's are responsible for the consistent delivery, career growth and level of hap
 
 | Level | Seniority | Public Title | Position |
 | :--- | :--- | :-- | :--- |
-| 4 | Senior | Staff Engineer | [EM4](#em4) |
-| 5 | Senior | Senior Staff Engineer | [EM5](#em5) |
-| 6 | Senior | Principal Engineer| [EM6](#em6) |
+| 4 | Advanced | Staff Engineer | [EM4](#em4) |
+| 5 | Advanced | Senior Staff Engineer | [EM5](#em5) |
+| 6 | Advanced | Principal Engineer| [EM6](#em6) |
 
 If you have other managers as direct reports, you might want to read the [Managing Managers](emm.md) section since it provides more information about the "Manages People" aspect of the role.
 
@@ -45,6 +45,5 @@ If you have other managers as direct reports, you might want to read the [Managi
 * [**Introduction**](README.md)
 * [**Individual Contributer**](ic.md)
 * [**Tech Lead**](tl.md)
-* [**Technical Program Manager**](tpm.md)
 * [**Tech Lead vs Engineering Manager**](tl-vs-em.md)
 * [**Managing Managers**](emm.md)

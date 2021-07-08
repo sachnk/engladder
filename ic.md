@@ -5,11 +5,11 @@ Individual contributers are engineers that require a deep level of technical exp
 | Level | Seniority | Public Title | Position |
 | :--- | :--- | :--- | :--- |
 | 1 | Junior | Engineer | [IC1](#ic1) |
-| 2 | Junior | Engineer | [IC2](#ic2) |
+| 2 | Midlevel | Engineer | [IC2](#ic2) |
 | 3 | Senior | Senior Engineer | [IC3](#ic3) |
-| 4 | Senior | Staff Engineer | [IC4](#ic4) |
-| 5 | Senior | Senior Staff Engineer | [IC5](#ic5) |
-| 6 | Senior | Principal Engineer | [IC6](#ic6) |
+| 4 | Advanced | Staff Engineer | [IC4](#ic4) |
+| 5 | Advanced | Senior Staff Engineer | [IC5](#ic5) |
+| 6 | Advanced | Principal Engineer | [IC6](#ic6) |
 
 ## IC1
 
@@ -75,7 +75,6 @@ Individual contributers are engineers that require a deep level of technical exp
 
 * [**Introduction**](README.md)
 * [**Tech Lead**](tl.md)
-* [**Technical Program Manager**](tpm.md)
 * [**Engineering Manager**](em.md)
 * [**Tech Lead vs Engineering Manager**](tl-vs-em.md)
 * [**Managing Managers**](emm.md)

@@ -35,6 +35,5 @@ Having said that, although it is important for an Engineering Manager to be able
 * [**Introduction**](README.md)
 * [**Individual Contributer**](ic.md)
 * [**Tech Lead**](tl.md)
-* [**Technical Program Manager**](tpm.md)
 * [**Engineering Manager**](em.md)
 * [**Managing Managers**](emm.md)

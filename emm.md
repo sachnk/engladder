@@ -88,6 +88,5 @@ In summary, understanding how each manager is performing on every area is a good
 * [**Introduction**](README.md)
 * [**Individual Contributer**](ic.md)
 * [**Tech Lead**](tl.md)
-* [**Technical Program Manager**](tpm.md)
 * [**Engineering Manager**](em.md)
 * [**Tech Lead vs Engineering Manager**](tl-vs-em.md)

@@ -54,7 +54,6 @@ Tech leads are the owners of a system and require a unique balance between hands
 
 * [**Introduction**](README.md)
 * [**Individual Contributer**](ic.md)
-* [**Technical Program Manager**](tpm.md)
 * [**Engineering Manager**](em.md)
 * [**Tech Lead vs Engineering Manager**](tl-vs-em.md)
 * [**Managing Managers**](emm.md)
