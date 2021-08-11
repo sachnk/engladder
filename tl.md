@@ -4,9 +4,9 @@ Tech leads are the owners of a system and require a unique balance between hands
 
 | Org Level | Eng Level | Seniority | Public Title | Position |
 | :-- | :--- | :--- | :-- | :--- |
-| L5 | 3 | Senior | Senior Engineer | [TL3](#tl3) |
+| L5 | 3 | Senior | Engineer | [TL3](#tl3) |
 | L6 | 4 | Senior | Staff Engineer | [TL4](#tl4) |
-| L7 | 5 | Senior | Senior Staff Engineer | [TL5](#tl5) |
+| L7 | 5 | Senior | Staff Engineer | [TL5](#tl5) |
 | L8 | 6 | Senior | Principal Engineer | [TL6](#tl6) |
 
 

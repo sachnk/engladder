@@ -20,9 +20,9 @@ If you are confused about the difference between a [Tech Lead](tl.md) and an [En
 | :-- | :--- | :--- | :-- | :---: | :---: | :---: |
 | L3 | 1 | Junior | Engineer | [IC1](ic.md#ic1) | | | |
 | L4 | 2 | Midlevel | Engineer | [IC2](ic.md#ic2) | | | |
-| L5 | 3 | Senior | Senior Engineer | [IC3](ic.md#ic3) | [TL3](tl.md#tl3) |
+| L5 | 3 | Senior | Engineer | [IC3](ic.md#ic3) | [TL3](tl.md#tl3) |
 | L6 | 4 | Advanced | Staff Engineer | [IC4](ic.md#ic4) | [TL4](tl.md#tl4) | [EM4](em.md#em4) |
-| L7 | 5 | Advanced | Senior Staff Engineer | [IC5](ic.md#ic5) | [TL5](tl.md#tl5) | [EM5](em.md#em5) |
+| L7 | 5 | Advanced | Staff Engineer | [IC5](ic.md#ic5) | [TL5](tl.md#tl5) | [EM5](em.md#em5) |
 | L8 | 6 | Advanced | Principal Engineer | [IC6](ic.md#ic6) | [TL6](tl.md#tl6) | [EM6](em.md#em6) |
 
 (click on position name for more details)

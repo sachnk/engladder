@@ -5,7 +5,7 @@ EM's are responsible for the consistent delivery, career growth and level of hap
 | Org Level | Eng Level | Seniority | Public Title | Position |
 | :-- | :--- | :--- | :-- | :--- |
 | L3 | 4 | Advanced | Staff Engineer | [EM4](#em4) |
-| L4 | 5 | Advanced | Senior Staff Engineer | [EM5](#em5) |
+| L4 | 5 | Advanced | Staff Engineer | [EM5](#em5) |
 | L5 | 6 | Advanced | Principal Engineer| [EM6](#em6) |
 
 If you have other managers as direct reports, you might want to read the [Managing Managers](emm.md) section since it provides more information about the "Manages People" aspect of the role.
