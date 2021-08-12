@@ -1,6 +1,6 @@
-# Individual Contributer
+# Individual Contributor
 
-Individual contributers are engineers that require a deep level of technical expertise, and focus on scoped problem sets
+Individual contributors are engineers that require a deep level of technical expertise, and focus on scoped problem sets
 
 | Org Level | Eng Level | Seniority | Public Title | Position |
 | :-- | :--- | :--- | :--- | :--- |

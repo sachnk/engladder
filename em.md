@@ -43,7 +43,7 @@ If you have other managers as direct reports, you might want to read the [Managi
 # Other Pages
 
 * [**Introduction**](README.md)
-* [**Individual Contributer**](ic.md)
+* [**Individual Contributor**](ic.md)
 * [**Tech Lead**](tl.md)
 * [**Tech Lead vs Engineering Manager**](tl-vs-em.md)
 * [**Managing Managers**](emm.md)
