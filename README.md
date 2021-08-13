@@ -10,7 +10,7 @@ The framework relies heavily in radar charts to show visually the different pers
 
 The framework has 3 different ladders:
 
-* [**Individual Contributer (IC)**](ic.md): role for engineers that contribute individually
+* [**Individual Contributor (IC)**](ic.md): role for engineers that contribute individually
 * [**Tech Lead (TL)**](tl.md): role is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support
 * [**Engineering Manager (EM)**](em.md): role also known as dev manager, is responsible for the consistent delivery, career growth and level of happiness of the team
 

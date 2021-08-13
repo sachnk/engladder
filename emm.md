@@ -86,7 +86,7 @@ In summary, understanding how each manager is performing on every area is a good
 # Other Pages
 
 * [**Introduction**](README.md)
-* [**Individual Contributer**](ic.md)
+* [**Individual Contributor**](ic.md)
 * [**Tech Lead**](tl.md)
 * [**Engineering Manager**](em.md)
 * [**Tech Lead vs Engineering Manager**](tl-vs-em.md)

@@ -33,7 +33,7 @@ Having said that, although it is important for an Engineering Manager to be able
 # Other Pages
 
 * [**Introduction**](README.md)
-* [**Individual Contributer**](ic.md)
+* [**Individual Contributor**](ic.md)
 * [**Tech Lead**](tl.md)
 * [**Engineering Manager**](em.md)
 * [**Managing Managers**](emm.md)
