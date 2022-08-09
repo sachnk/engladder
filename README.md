@@ -17,9 +17,9 @@ The framework has 3 different ladders:
 If you are confused about the difference between a [Tech Lead](tl.md) and an [Engineering Manager](em.md), please refer to the [Tech Lead vs Engineering Manager](tl-vs-em.md) page for a detailed comparison.
 
 | Org Level | Stage | Public Title | [IC](ic.md) | [TL](tl.md) | [EM](em.md) |
-| :-- | :--- | :--- | :-- | :---: | :---: | :---: |
+| :-- | :--- | :-- | :---: | :---: | :---: |
 | L3 | Early | Engineer | [IC1](ic.md#ic1) | | | |
-| L4 | Middle | Engineer | [IC2](ic.md#ic2) | | | |
+| L4 | Midlevel | Engineer | [IC2](ic.md#ic2) | | | |
 | L5 | Experienced | Engineer | [IC3](ic.md#ic3) | [TL3](tl.md#tl3) |
 | L6 | Advanced | Staff Engineer | [IC4](ic.md#ic4) | [TL4](tl.md#tl4) | [EM4](em.md#em4) |
 | L7 | Advanced | Staff Engineer | [IC5](ic.md#ic5) | [TL5](tl.md#tl5) | [EM5](em.md#em5) |

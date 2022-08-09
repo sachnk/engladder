@@ -3,7 +3,7 @@
 EM's are responsible for the consistent delivery, career growth and level of happiness of the team.
 
 | Org Level | Stage | Public Title | Position |
-| :-- | :--- | :--- | :-- | :--- |
+| :-- | :--- | :-- | :--- |
 | L3 | Advanced | Staff Engineer | [EM4](#em4) |
 | L4 | Advanced | Staff Engineer | [EM5](#em5) |
 | L5 | Advanced | Principal Engineer| [EM6](#em6) |
