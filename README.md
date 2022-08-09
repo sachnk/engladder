@@ -19,7 +19,7 @@ If you are confused about the difference between a [Tech Lead](tl.md) and an [En
 | Org Level | Eng Level | Stage | Public Title | [IC](ic.md) | [TL](tl.md) | [EM](em.md) |
 | :-- | :--- | :--- | :-- | :---: | :---: | :---: |
 | L3 | 1 | Early | Engineer | [IC1](ic.md#ic1) | | | |
-| L4 | 2 | Midlevel | Engineer | [IC2](ic.md#ic2) | | | |
+| L4 | 2 | Middle | Engineer | [IC2](ic.md#ic2) | | | |
 | L5 | 3 | Experienced | Engineer | [IC3](ic.md#ic3) | [TL3](tl.md#tl3) |
 | L6 | 4 | Advanced | Staff Engineer | [IC4](ic.md#ic4) | [TL4](tl.md#tl4) | [EM4](em.md#em4) |
 | L7 | 5 | Advanced | Staff Engineer | [IC5](ic.md#ic5) | [TL5](tl.md#tl5) | [EM5](em.md#em5) |
