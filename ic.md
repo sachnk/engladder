@@ -2,11 +2,11 @@
 
 Individual contributors are engineers that require a deep level of technical expertise, and focus on scoped problem sets
 
-| Org Level | Eng Level | Seniority | Public Title | Position |
+| Org Level | Eng Level | Stage | Public Title | Position |
 | :-- | :--- | :--- | :--- | :--- |
-| L3 | 1 | Junior | Engineer | [IC1](#ic1) |
+| L3 | 1 | Early | Engineer | [IC1](#ic1) |
 | L4 | 2 | Midlevel | Engineer | [IC2](#ic2) |
-| L5 | 3 | Senior | Engineer | [IC3](#ic3) |
+| L5 | 3 | Experienced | Engineer | [IC3](#ic3) |
 | L6 | 4 | Advanced | Staff Engineer | [IC4](#ic4) |
 | L7 | 5 | Advanced | Staff Engineer | [IC5](#ic5) |
 | L8 | 6 | Advanced | Principal Engineer | [IC6](#ic6) |
